@@ -7,11 +7,13 @@ puts "Let's plan your trip! Where would you like to stay?"
 
 stay = gets.chomp.capitalize  #don't forget to Capitilize the input
 
-
+puts "What would you like to eat?"
 
 # Do the same thing with `eats` and one last time with `nights`, capturing their text input and storing them to the respective local variable
 
 eats = gets.chomp.capitalize
+
+puts "What would you like to do?"
 
 nights = gets.chomp.capitalize
 
