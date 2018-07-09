@@ -16,5 +16,5 @@ nights = gets.chomp.capitalize
 
 # Lastly, puts it all back by interpolating these values in a string.
 
-puts "stay  + eats  + nights "
+puts "stay"+"eats"+"nights"
 
