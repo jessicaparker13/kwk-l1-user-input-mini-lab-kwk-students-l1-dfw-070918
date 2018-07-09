@@ -13,7 +13,7 @@ puts "What would you like to eat?"
 
 eats = gets.chomp.capitalize
 
-puts "What would you like to do?"
+puts "How many nights?"
 
 nights = gets.chomp.capitalize
 
